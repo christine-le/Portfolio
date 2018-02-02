@@ -89,7 +89,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software engineer, entrepreneur and lifelong learner.  Always looking for ways to improve my craft as well as share knowledge with others."
   location         : "Bay Area, CA"
-  email            :
+  email            : "christine@christinele.io"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
