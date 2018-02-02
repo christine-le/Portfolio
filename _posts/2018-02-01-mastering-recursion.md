@@ -21,6 +21,7 @@ To dive in, I looked to trusty old Google to find recursion exercises to solve. 
 
  - http://codingbat.com/java/Recursion-1
  - http://www.bowdoin.edu/~ltoma/teaching/cs107/spring05/recursion.html
+ - http://www.hackerrank.com
 
 Next steps for me are to work on more challenging exercises (e.g., BFS on a binary tree).  If you are curious, check out my solutions on my Github repo [here](https://github.com/christine-le/algorithms/blob/master/recursion.py).  
 
